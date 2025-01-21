@@ -1,8 +1,5 @@
-# Antes de Começar
+## Descrição do Repositorio
 
-1. Instale o `numpy`
-2. Instale o `pandas`
+Este repositório reúne atividades e projetos relacionados à Ciência de Dados ( Data Science ), com foco na manipulação, tratamento e análise de dados.
 
-## Descrição do Projeto
-
-Este projeto tem como objetivo realizar uma análise preditiva de reconhecimento facial, levando em consideração fatores como iluminação, qualidade da câmera e distância. Foram realizadas 10.000 simulações com base nos parâmetros estabelecidos para identificar o valor mínimo necessário para garantir o reconhecimento.
+Aqui você encontrará exemplos práticos de uso de bibliotecas populares, como pandas , numpy e ferramentas específicas para proteção e organização de dados. Cada atividade busca resolver problemas específicos ou ilustrar técnicas importantes para o aprendizado e aplicação em Ciência de Dados.
